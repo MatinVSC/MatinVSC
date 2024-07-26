@@ -1,17 +1,40 @@
 <h1 align="center">Hi 👋, I'm MATIN</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
+<img align="right" width="350px" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
 - 🔭 I’m currently working on **ReactJS**
 
 - 🌱 I’m currently learning **React | typeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatinVSC/](https://github.com/MatinVSC/)
 
-<img align="right" width="350px" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
 - 📫 How to reach me **MatinVSC@gmail.com**
 
 - ⚡ Fun fact **I`m Love Coading 👨‍💻**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const MatinRahmati = {     
+    pronouns: "He" | "Him",     
+    aboutMe: "I'm javaScript Developer"
+    language: ["javaScript", "typeScript"] // react.js,         
+    myStack: {             
+        frontEnd: {             
+          frameworks: ["react.js", "Next.js", "tailwindcss", "bootstrap", ],                   
+          API: ["postman", "insomnia", "swagger", "openAPI"],
+       
+        },         
+        backEnd: {             
+          web: ["i'm not BackEnd developer 😁😁😁", "My friends call me a bug fixer 😂"],         
+        },         
+        devOps: ["Docker🐳"],               
+   },    
+   currentFocus: "React.js learning",     
+   funFact: "Bug's and Errors are my best friends" 
+};
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
