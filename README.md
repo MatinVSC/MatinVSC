@@ -3,7 +3,7 @@
 
 <img align="right" width="350px" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-<br>
+</br>
 
 - 🔭 I’m currently working on **ReactJS**
 
@@ -24,7 +24,7 @@ const MatinRahmati = {
     language: ["javaScript", "typeScript"] // react.js,         
     myStack: {             
         frontEnd: {             
-          frameworks: ["react.js", "Next.js", "tailwindcss", "bootstrap", ],                   
+          frameworks: ["react.js", "Node.js", "tailwindcss", "bootstrap", ],                   
           API: ["postman", "insomnia", "swagger", "openAPI"],
        
         },         
