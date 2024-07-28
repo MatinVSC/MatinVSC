@@ -24,7 +24,7 @@ const MatinRahmati = {
     language: ["javaScript", "typeScript"] // react.js,         
     myStack: {             
         frontEnd: {             
-          frameworks: ["react.js", "Node.js", "tailwindcss", "bootstrap", ],                   
+          frameworks: ["React.js", "Next.js", "tailwindcss", "bootstrap", ],                   
           API: ["postman", "insomnia", "swagger", "openAPI"],
        
         },         
